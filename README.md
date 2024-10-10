@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer | Computer Engineer** passionate about building imp
 - 🌐 &nbsp; Check out my portfolio at [faseehbilal]([https://faseehbilal.pages.dev/]) to see my projects!
 - 🚀 &nbsp; Always learning and exploring new tech to make a difference.
 - 🤖 &nbsp; I use AI to create smarter solutions that enhance user experiences.
-- 💼 &nbsp; Founder & CEO of [EasyVid AI] and [AI Slide Studio].
+- 💼 &nbsp; Founder & CEO of EasyVid AI and AI Slide Studio.
  <br><br/>
 ### My Toolbox:
 
