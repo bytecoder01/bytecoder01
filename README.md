@@ -14,7 +14,7 @@ I'm a **Full-Stack Developer | Computer Engineer** passionate about building imp
 ### A Little About Me:
 
 - 🛠 &nbsp; Working with **React, Node, Express, NoSQL**, and **Redux**; exploring **Generative AI** and **LLMs**.
-- 🌐 &nbsp; Check out my portfolio at [faseehbilal](https://www.faseehbilal.com/) to see my projects!
+- 🌐 &nbsp; Check out my portfolio at [faseehbilal]([https://www.faseehbilal.com/](https://faseehbilal.pages.dev/)) to see my projects!
 - 🚀 &nbsp; Always learning and exploring new tech to make a difference.
 - 🤖 &nbsp; I use AI to create smarter solutions that enhance user experiences.
 - 💼 &nbsp; Founder & CEO of [EasyVid AI] and [AI Slide Studio].
