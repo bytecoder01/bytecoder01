@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faseeh-ul-din-bilal-b44972324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FaseehBilal01)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faseeh._01?igsh=NmlvcG5qMGMzN200/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.faseehbilal.com/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faseehbilal.pages.dev/)
 <br><br/>
 ### Glad to have you here! ![](https://komarev.com/ghpvc/?username=faseehbilal&color=green)
 <img align="right" width="100" alt="GIF" src="assets/faseeh-gif.gif" />
@@ -14,7 +14,7 @@ I'm a **Full-Stack Developer | Computer Engineer** passionate about building imp
 ### A Little About Me:
 
 - 🛠 &nbsp; Working with **React, Node, Express, NoSQL**, and **Redux**; exploring **Generative AI** and **LLMs**.
-- 🌐 &nbsp; Check out my portfolio at [faseehbilal]([https://www.faseehbilal.com/](https://faseehbilal.pages.dev/)) to see my projects!
+- 🌐 &nbsp; Check out my portfolio at [faseehbilal]([https://faseehbilal.pages.dev/]) to see my projects!
 - 🚀 &nbsp; Always learning and exploring new tech to make a difference.
 - 🤖 &nbsp; I use AI to create smarter solutions that enhance user experiences.
 - 💼 &nbsp; Founder & CEO of [EasyVid AI] and [AI Slide Studio].
