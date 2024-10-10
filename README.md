@@ -9,7 +9,7 @@
 
 I'm a **Full-Stack Developer | Computer Engineer** passionate about building impactful, high-performance web applications. As the Founder of **EasyVid AI** and **AI Slide Studio**, I’m leading projects that leverage AI to redefine digital storytelling. My goal is to create scalable, user-centered solutions that enhance everyday experiences.
 <br><br/>
-<img align="right" width="375" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k5engzcjFkNXEzeXY2dDZ6NjljaXp1YW8xaXgwZjc4dTV6cmhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWfV1YvRogplfR5SWp/giphy.gif" />
+<img align="right" width="375" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQxbTJmbDR5b2Q0aG84enZsdmh4YXprb2lpcmR5bTV6NHhpaTM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOPK1BqsMEJRS/giphy.gif" />
  
 ### A Little About Me:
 
