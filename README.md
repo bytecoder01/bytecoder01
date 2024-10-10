@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Faseeh Bilal!](https://www.faseehbilal.com/) and welcome to my digital space!
+## Hey 👋, I'm Faseeh Bilal and welcome to my digital space!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faseeh-ul-din-bilal-b44972324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FaseehBilal01)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faseeh._01?igsh=NmlvcG5qMGMzN200/)
@@ -9,7 +9,7 @@
 
 I'm a **Full-Stack Developer | Computer Engineer** passionate about building impactful, high-performance web applications. As the Founder of **EasyVid AI** and **AI Slide Studio**, I’m leading projects that leverage AI to redefine digital storytelling. My goal is to create scalable, user-centered solutions that enhance everyday experiences.
 <br><br/>
-<img align="right" width="375" alt="GIF" src="https://media.giphy.com/media/3ohs4k3iJ0p9jRojhW/giphy.gif" />
+<img align="right" width="375" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k5engzcjFkNXEzeXY2dDZ6NjljaXp1YW8xaXgwZjc4dTV6cmhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWfV1YvRogplfR5SWp/giphy.gif" />
  
 ### A Little About Me:
 
